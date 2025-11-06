@@ -1,1 +1,4 @@
-pycryptodome geoip2 python-dotenv colorama
+pycryptodome 
+geoip2 
+python-dotenv 
+colorama
